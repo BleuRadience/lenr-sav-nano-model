@@ -26,3 +26,10 @@ BleuRadience (2025). LENR SAV Nano Model. Zenodo. https://doi.org/10.5281/zenodo
 git clone https://github.com/bleuradience/lenr-sav-nano-model.git
 cd lenr-sav-nano-model
 python lenr_sav_nano.py  # Generates plots and outputs
+
+Development Process
+This work was created by an independent researcher using AI as a collaborative tool for hypothesis refinement and code validation, combined with clinical trial principles for phased, reproducible modeling.
+Contributing
+Issues and pull requests welcome—focus on validation, extensions, or experimental data.
+Acknowledgments
+Inspired by Fukai (SAV phases), 2025 nano-LENR literature, and open science communities.
