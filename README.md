@@ -1,0 +1,28 @@
+# LENR SAV Nano Model: Coulomb Barrier Suppression in Pd₃VacD₄
+
+**Author**: BleuRadience (Independent Researcher)  
+**Date**: December 27, 2025  
+
+## Overview
+This repository contains a theoretical analysis of low-energy nuclear reactions (LENR) via Coulomb barrier suppression in superabundant vacancy (SAV) phases of palladium-deuterium systems, extended with resonance dynamics and nanoparticle catalysis. Developed through AI-assisted iterative inquiry and clinical trial-inspired methodology for reproducibility.
+
+Key findings: Electron density enhancements (α ≥ 3, nano-boosted to ~30) eliminate the barrier at 2.75 Å D-D separation, predicting ~2.4 W/cm³ power density.
+
+## Citation
+When citing this work, please use the Zenodo DOI (added after release):  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+
+BleuRadience (2025). LENR SAV Nano Model. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+
+## Files
+- `manuscript.pdf`: Full theoretical paper.
+- `lenr_sav_nano.py`: Reproducible Python simulations (run with `python lenr_sav_nano.py`).
+- `PROTOCOL.md`: Detailed experimental protocol for nano-enhanced electrolytic cell.
+- `figures/`: Generated plots and schematics.
+- `LICENSE`: MIT (code), CC-BY-4.0 (manuscript).
+
+## Quick Start
+```bash
+git clone https://github.com/bleuradience/lenr-sav-nano-model.git
+cd lenr-sav-nano-model
+python lenr_sav_nano.py  # Generates plots and outputs
