@@ -10,7 +10,7 @@ Key findings: Electron density enhancements (α ≥ 3, nano-boosted to ~30) elim
 
 ## Citation
 When citing this work, please use the Zenodo DOI (added after release):  
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18070952.svg)](https://doi.org/10.5281/zenodo.18070952)
 
 BleuRadience (2025). LENR SAV Nano Model. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
 
