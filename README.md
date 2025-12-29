@@ -33,3 +33,6 @@ Contributing
 Issues and pull requests welcome—focus on validation, extensions, or experimental data.
 Acknowledgments
 Inspired by Fukai (SAV phases), 2025 nano-LENR literature, and open science communities.
+
+## Consultations
+This framework is designed to enhance reproducibility in physics research. For paid consultations or custom applications to your company's/institution's projects (e.g., quantum materials, superconductivity, or other CMP challenges), contact via GitHub issues or email (blueisresting@gmail.com). No unpaid consultancy.
